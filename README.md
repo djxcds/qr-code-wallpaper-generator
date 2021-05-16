@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/bc7e9feb-fc9b-4384-ba85-d6511106c6f0/deploy-status)](https://app.netlify.com/sites/qr-code-wallpaper/deploys)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
