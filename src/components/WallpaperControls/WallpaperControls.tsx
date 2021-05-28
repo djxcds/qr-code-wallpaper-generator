@@ -38,7 +38,7 @@ const WallpaperControls = ({
                         id='fullname'
                         onChange={(e) => updateName(e)}
                         type='text'
-                        placeholder='Ex. Woodford Nono'
+                        placeholder='Ex. Gabe Newell'
                     />
                 </div>
             </div>
